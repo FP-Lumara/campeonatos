@@ -1,0 +1,4 @@
+id,idPrueba,tipoPrueba,idDeportista,posicion
+R001,P001,CARRERA,D001,1
+R002,P001,CARRERA,D002,2
+R003,P002,SALTO,D003,3
