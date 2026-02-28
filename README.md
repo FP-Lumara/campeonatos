@@ -188,6 +188,7 @@ class DeportistaRepository {
   <<interface>>
   +void save(Deportista d)
   +Optional~Deportista~ findById(String id)
+  +List<Deportista>~ findByPais(String pais)
   +List~Deportista~ listAll()
 }
 
